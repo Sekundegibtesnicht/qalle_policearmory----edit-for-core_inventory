@@ -33,6 +33,7 @@ This repository contains a customized version of the Qalle Police Armory script,
 ## Installation
 
 ```bash
+rename it to qalle_policearmory
 Customize Config
 Create items 
 Change coordinates 
