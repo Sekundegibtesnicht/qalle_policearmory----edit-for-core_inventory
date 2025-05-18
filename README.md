@@ -9,6 +9,9 @@ This repository contains a customized version of the Qalle Police Armory script,
 
 - Important I have only rewritten the code and not created it myself I have recorded everything below in the creadits that the script is from [@qalle-git](https://github.com/qalle-git/qalle_policearmory)
 
+
+## Preview
+[Video](https://images.guns.lol/jldNy.mp4)
 ## New things
 
 - there are now 3 tabs with weapons, ammo, and attachments
